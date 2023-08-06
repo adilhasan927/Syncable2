@@ -1,0 +1,11 @@
+*.npy
+*.pickle
+*.npz
+*.tif
+*.zip
+*.png
+*.jpg
+*.las
+cache/
+pycache/
+pipe*
